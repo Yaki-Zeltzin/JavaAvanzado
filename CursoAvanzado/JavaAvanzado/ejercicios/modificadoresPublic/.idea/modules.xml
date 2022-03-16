@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/modificadoresDeAcceso.iml" filepath="$PROJECT_DIR$/modificadoresDeAcceso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modificadoresPublic.iml" filepath="$PROJECT_DIR$/modificadoresPublic.iml" />
     </modules>
   </component>
 </project>
