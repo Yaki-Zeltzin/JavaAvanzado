@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CursoAvanzado.iml" filepath="$PROJECT_DIR$/.idea/CursoAvanzado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAvanzado/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/JavaAvanzado/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesdeCero/ProyectoFinal/ProyectoFinal.iml" filepath="$PROJECT_DIR$/JavaDesdeCero/ProyectoFinal/ProyectoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesdeCero/arreglos/arreglos.iml" filepath="$PROJECT_DIR$/JavaDesdeCero/arreglos/arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesdeCero/ciclos/ciclos.iml" filepath="$PROJECT_DIR$/JavaDesdeCero/ciclos/ciclos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAvanzado/ejercicios/ejercicios.iml" filepath="$PROJECT_DIR$/JavaAvanzado/ejercicios/ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesdeCero/inteerfaz/inteerfaz.iml" filepath="$PROJECT_DIR$/JavaDesdeCero/inteerfaz/inteerfaz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAvanzado/ejercicios/modificadoresPublic/modificadoresPublic.iml" filepath="$PROJECT_DIR$/JavaAvanzado/ejercicios/modificadoresPublic/modificadoresPublic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesdeCero/primerasClases/primerasClases.iml" filepath="$PROJECT_DIR$/JavaDesdeCero/primerasClases/primerasClases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDesdeCero/strings/strings.iml" filepath="$PROJECT_DIR$/JavaDesdeCero/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo/untitled.iml" filepath="$PROJECT_DIR$/polimorfismo/untitled.iml" />
+    </modules>
+  </component>
+</project>

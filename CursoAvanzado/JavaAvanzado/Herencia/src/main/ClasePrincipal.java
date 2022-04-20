@@ -1,6 +1,7 @@
 package main;
+
 import operaciones.ClaseHija_Suma;
-import operaciones.ClaeHija_Resta;
+
 
 public class ClasePrincipal {
     public static void main(String[] args) {

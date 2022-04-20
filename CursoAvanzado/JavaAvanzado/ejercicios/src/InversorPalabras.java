@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class InversorPalabras {
     public static void main(String args[]){
@@ -18,7 +18,7 @@ public class InversorPalabras {
             longitudPalabra --;
         }//while
 
-        System.out.print("Tu pañabra invertida es: " + palabraInvertida);
+        System.out.print("Tu palabra invertida es: " + palabraInvertida);
         System.out.println();
 
     }//main
